@@ -1,4 +1,4 @@
-# APP COVID-19
+# APP COVID-19  :iphone:
 ***
 Desenvolvido durante 1ºPeriodo Curos Ciencência da Computação
 
@@ -20,10 +20,7 @@ Desenvolvido durante 1ºPeriodo Curos Ciencência da Computação
 ### Região
 - Ferramenta para informar o usuário , os dados de COVID-19 em sua região
 
-
-
-
-
+***
 ![](https://imgur.com/RhfAdNx.gif) 
 
 
