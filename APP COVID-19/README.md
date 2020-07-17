@@ -1,6 +1,6 @@
 # APP COVID-19  :iphone:
 ***
-Desenvolvido durante 1ºPeriodo Curos Ciencência da Computação
+Desenvolvido durante 1ºPeriodo Curso Ciência da Computação
 
 ### Funções do App
 
