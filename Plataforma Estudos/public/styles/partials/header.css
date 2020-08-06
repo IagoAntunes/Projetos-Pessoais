@@ -18,6 +18,14 @@
 
     padding: 1.6rem 0;
 }
+/*Logo DEVSCHOOL */
+.page-header .top-bar-container h1{
+    font-size: 4.6rem;
+    text-align: right;
+    color: white;
+    line-height: 4.6rem;
+}
+
 /* Seta Voltar */
 .page-header .top-bar-container a{
     height: 3.2rem;
@@ -27,7 +35,12 @@
 .page-header .top-bar-container a:hover {
     opacity: 0.6;
 }
-/*Tamanho Imagem Proffy */
+
+.page.header .top-bar-container .devschool{
+    font-size: 120rem;
+}
+
+/*Tamanho Imagem Proffy */ 
 .page-header .top-bar-container > img{
     /*height: 1.6rem;*/
     height: 3.5rem;

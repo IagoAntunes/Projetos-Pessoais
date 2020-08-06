@@ -17,13 +17,18 @@
     text-align: center;
     margin-bottom: 3.2rem;
 }
-
+/* TITULO */
+.logo-container h1{
+    font-size: 5.6rem;
+    line-height: 4.6rem;
+    margin-bottom: 2.2rem;
+}
 /* Estilo SubTitulo */
 .logo-container h2{
     font-weight: 500;
     font-size: 3.6rem;
     line-height: 4.6rem;
-    margin-top: 0.8rem;
+    margin-top: 1.5rem;
 }
 
 .hero-image{
@@ -97,6 +102,7 @@
 /* Espaço lado esquerdo CORAÇÃO */
 .total-connections img {
     margin-left: 0.8rem;
+    height: 2rem;
 }
 
 @media (max-width: 699px){
@@ -105,9 +111,6 @@
         font-size: 40%; /*Modificar as medidas rem */
 }
 }
-
-
-
 
 /* Padrão Estilo para DESKTOP */
 @media (min-width: 1100px){

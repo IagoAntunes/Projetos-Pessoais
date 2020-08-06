@@ -3,16 +3,16 @@
 
 :root {
     --color-background: #F0F0F7;
-    --color-primary-lighter: #9871F5;
-    --color-primary-light: #916BEA;
-    --color-primary:  #4600eb;
+    --color-primary-lighter: #DC2F02;
+    --color-primary-light: #ff3300;
+    --color-primary:  #03071E;
     --color-primary-dark: #774DD6;
     --color-primary-darker: #6842c2;
-    --color-secondary: #04D361;
+    --color-secondary: #04A34B;
     --color-secondary-dark: #04BF58;
     --color-title-in-primary: #FFFFFF;
     --color-text-in-primary: #D4C2FF;
-    --color-text-title: rgba(41, 14, 104, 0.663);
+    --color-text-title: #010e57;
     --color-text-complement: #7d7c80;;
     --color-text-base: #6A6180;
     --color-line-in-white: #E6E6F0;
