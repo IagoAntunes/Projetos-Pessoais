@@ -10,4 +10,4 @@
 * Node.JSN
 * SQL
 
-# :new_moon: Projeto
+# :computer: Projeto
